@@ -9,9 +9,12 @@
 ## Quick start
 ```bash
 # clone the repo to local
+cd ~
 git clone https://github.com/WebDevSquad/WebDev101.git
-# open the html with your web browser
-open hello_world.html
+# open the project 
+open WebDevSquad
+# open the hello_world html (web browser)
+open WebDevSquad/hello_world.html
 # and you should see the site as below
 ```
 <p align="center"><img src ="https://github.com/WebDevSquad/WebDev101/blob/master/doc/pic/hello_world_site.png"></p>
