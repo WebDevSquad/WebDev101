@@ -8,11 +8,13 @@
 
 ## Quick start
 ```bash
-
+# clone the repo to local
 git clone https://github.com/WebDevSquad/WebDev101.git
-open WebDev101
-
+# open the html with your web browser
+open hello_world.html
+# and you should see the site as below
 ```
+<p align="center"><img src ="https://github.com/WebDevSquad/WebDev101/blob/master/doc/pic/hello_world_site.png" width="800" height="400"></p>
 
 ## Video
 - dev 
