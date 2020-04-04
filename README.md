@@ -14,7 +14,7 @@ git clone https://github.com/WebDevSquad/WebDev101.git
 open hello_world.html
 # and you should see the site as below
 ```
-<p align="center"><img src ="https://github.com/WebDevSquad/WebDev101/blob/master/doc/pic/hello_world_site.png" width="800" height="400"></p>
+<p align="center"><img src ="https://github.com/WebDevSquad/WebDev101/blob/master/doc/pic/hello_world_site.png" width="400" height="300"></p>
 
 ## Video
 - dev 
