@@ -28,6 +28,9 @@ open WebDevSquad/hello_world.html
 - https://twitter.github.io/
 
 ## Resources
+- Freecodecamp
+	- https://www.freecodecamp.org/
+	- https://hackmd.io/@uJ34_j9QQyqX2W_Jf5evAw/Hy8CAOOyf?type=view#
 - HTML
 	- https://www.codecademy.com/learn/learn-html
 	- https://www.tutorialspoint.com/html/index.htm
